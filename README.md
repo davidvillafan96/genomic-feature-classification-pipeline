@@ -71,6 +71,3 @@ The script includes session information to document package versions and runtime
 
 Developed as part of doctoral research in genomics, integrating computational feature engineering and multivariate modeling for functional genomic profiling.
 
----
-
-## Project Structure
