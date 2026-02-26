@@ -47,6 +47,30 @@ This framework supports:
 
 Session metadata is exported to ensure computational reproducibility.
 
+
+---
+
+## Output
+
+The pipeline generates:
+
+- High-resolution clustered heatmap (PNG)  
+- Z-score normalized feature matrix (CSV)  
+- Session information for reproducibility tracking  
+
+---
+
+## Reproducibility
+
+All paths are project-relative to facilitate portability.  
+The script includes session information to document package versions and runtime environment.
+
+---
+
+## Author
+
+Developed as part of doctoral research in genomics, integrating computational feature engineering and multivariate modeling for functional genomic profiling.
+
 ---
 
 ## Project Structure
